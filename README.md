@@ -120,7 +120,7 @@ API keys are stored in `.env` and excluded from version control using `.gitignor
 
 ## Author
 
-Aswin Singh
+Aswin
 
 ---
 
